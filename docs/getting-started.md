@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- [] Happy to see you here
+- Welcome back
